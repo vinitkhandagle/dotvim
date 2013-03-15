@@ -56,8 +56,6 @@ set ignorecase
 set smartcase
 set showmatch
 set cursorline
-"" Pathogen Set up
-""call pathogen#infect()
 
 set nocompatible               " be iMproved
 ""filetype off                   " required!
