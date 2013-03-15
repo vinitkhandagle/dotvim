@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/linbynd/test'
+let g:netrw_dirhist_2='/home/linbynd'
+let g:netrw_dirhist_3='/home'
+let g:netrw_dirhist_4='/home/linbynd'
+let g:netrw_dirhist_5='/home/linbynd/Documents'
+let g:netrw_dirhist_6='/home/linbynd/test'
+let g:netrw_dirhist_7='/home/linbynd/vagrant_machines/.git'
